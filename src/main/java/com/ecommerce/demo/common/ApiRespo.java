@@ -2,7 +2,7 @@ package com.ecommerce.demo.common;
 
 import java.time.LocalDateTime;
 
-public class ApiRespo<T> {
+public class ApiRespo {
 	private final boolean success;
 	private final String message;
 	
